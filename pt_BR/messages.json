@@ -520,8 +520,11 @@
   "Novice": {
     "message": "Aprendiz"
   },
+  "On": {
+    "message": "On"
+  },
   "Off": {
-    "message": "Desativado"
+    "message": "Off"
   },
   "One_or_more_compatibility_options_are_set": {
     "message": "Uma ou mais opções de compatibilidade estão ativadas. Você talvez gostaria/deveria revê-las."
